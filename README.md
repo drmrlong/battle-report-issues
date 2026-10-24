@@ -12,3 +12,7 @@ When reporting a bug, it helps to include:
 ## Data problems
 
 Wrong points, wargear, abilities or rules come from [BSData](https://github.com/BSData/wh40k-11e), a community project the app reads its datasheets from. Please report those on [BSData's issue tracker](https://github.com/BSData/wh40k-11e/issues), so the fix reaches everyone.
+
+## Privacy
+
+Battle Report collects no personal data. Read the [privacy policy](https://drmrlong.github.io/battle-report-issues/privacy/).
