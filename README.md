@@ -1,6 +1,8 @@
 # Battle Report: issues
 
-Report bugs and suggest features for **Battle Report**, the Warhammer 40,000 list building and match tracking app for iPhone.
+Report bugs and suggest features for **Battle Report**, the list building and match tracking app for tabletop wargamers on iPhone.
+
+Battle Report is unofficial and is not affiliated with or endorsed by Games Workshop.
 
 [Open an issue](https://github.com/drmrlong/battle-report-issues/issues/new)
 
